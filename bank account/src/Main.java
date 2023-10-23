@@ -1,6 +1,7 @@
 import bank.Bank;
 import bank.Coin;
 import bank.Dataset;
+import bank.Purse;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +12,8 @@ public class Main {
         Coin euro = new Coin("Euro", 1.10);
 
         Dataset bankDataset = new Dataset();
+
+        Purse purse = new Purse();
 
         System.out.println("\nCoin: " + dollar.getName() + "\tValue: " + dollar.getMeasure());
         System.out.println("Coin: " + euro.getName() + "\t\tValue: " + euro.getMeasure());
@@ -38,5 +41,9 @@ public class Main {
 
         bankDataset.add(account);
         System.out.println("Bank dataset: " + bankDataset.getSum());
+
+        purse.add(dollar);
+        purse.add(euro);
+        System.out.println("Purse total: " + purse.getTotal());
     }
 }

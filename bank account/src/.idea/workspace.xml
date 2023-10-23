@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4244d07a-55dd-4e99-bb53-5992c6fc69f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../veicolo/src/vehicle/Aereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../veicolo/src/vehicle/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../veicolo/src/vehicle/Nave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../veicolo/src/vehicle/Veicolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../veicolo/src/vehicle/Viaggiatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../veicolo/src/vehicle/Volante.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2X9s5kfVeI3bJs3jZoy2lsH22JJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/roccodelprete/Documents/università/prog-3/bank account/src",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4244d07a-55dd-4e99-bb53-5992c6fc69f1" name="Changes" comment="" />
+      <created>1698052448726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698052448726</updated>
+      <workItem from="1698052449754" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

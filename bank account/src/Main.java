@@ -45,5 +45,6 @@ public class Main {
         purse.add(dollar);
         purse.add(euro);
         System.out.println("Purse total: " + purse.getTotal());
+        System.out.println("Purse maximum: " + purse.getMaximum().getName() + "\t" + purse.getMaximum().getMeasure());
     }
 }

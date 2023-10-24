@@ -23,9 +23,7 @@ public class Purse {
      * @return the total
      */
     public double getTotal() {
-        coins.forEach((coin) -> {
-            total += coin.getMeasure();
-        });
+        coins.forEach((coin) -> total += coin.getMeasure());
 
         return total;
     }

@@ -7,7 +7,7 @@ public class Purse {
     private double total;
 
     public Purse() {
-        coins = new ArrayList<Coin>();
+        coins = new ArrayList<>();
     }
 
     /**
@@ -24,7 +24,7 @@ public class Purse {
      */
     public double getTotal() {
         coins.forEach((coin) -> {
-            total += ((Coin)coin).getMeasure();
+            total += coin.getMeasure();
         });
 
         return total;
@@ -75,7 +75,7 @@ public class Purse {
      * @return the max value
      */
     public Coin getMaximum() {
-        Coin max = (Coin) coins.get(0);
+        Coin max = coins.get(0);
 
         for (Coin coin : coins) {
             if (coin.getMeasure() > max.getMeasure()) {

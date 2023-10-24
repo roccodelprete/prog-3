@@ -12,7 +12,6 @@ public class Purse {
 
     /**
      * function to add a coin in the purse
-     *
      * @param coin - the coin to add
      */
     public void add(Coin coin) {

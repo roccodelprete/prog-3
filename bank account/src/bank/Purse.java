@@ -20,7 +20,6 @@ public class Purse {
 
     /**
      * function to get the totale value of the purse
-     *
      * @return the total
      */
     public double getTotal() {
@@ -33,7 +32,6 @@ public class Purse {
 
     /**
      * function to get how many coins are in the purse
-     *
      * @return the purse size
      */
     public int count() {
@@ -42,7 +40,6 @@ public class Purse {
 
     /**
      * function to find a coin in the purse
-     *
      * @param coinToFind - the coin to find
      * @return true if the coin has found
      * or false otherwise
@@ -58,7 +55,6 @@ public class Purse {
 
     /**
      * function to get how many times a coin is in the purse
-     *
      * @param coinToMatch - coin to match
      * @return the matches
      */
@@ -76,7 +72,6 @@ public class Purse {
 
     /**
      * function to get max value in the purse
-     *
      * @return the max value
      */
     public Coin getMaximum() {

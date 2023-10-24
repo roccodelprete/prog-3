@@ -5,15 +5,19 @@ import bank.Purse;
 
 public class Main {
     public static void main(String[] args) {
+        Purse purse = new Purse();
         Bank account = new Bank("IT", 0);
         Bank account1 = new Bank("IT", 0);
 
         Coin dollar = new Coin("Dollar", 1.01);
         Coin euro = new Coin("Euro", 1.10);
+        Coin[] yen = new Coin[2];
+        for (int i = 0; i < 2; i++) {
+            yen[i] = new Coin("Yen", 10);
+            purse.add(yen[i]);
+        }
 
         Dataset bankDataset = new Dataset();
-
-        Purse purse = new Purse();
 
         System.out.println("\nCoin: " + dollar.getName() + "\tValue: " + dollar.getMeasure());
         System.out.println("Coin: " + euro.getName() + "\t\tValue: " + euro.getMeasure());
@@ -46,5 +50,6 @@ public class Main {
         purse.add(euro);
         System.out.println("Purse total: " + purse.getTotal());
         System.out.println("Purse maximum: " + purse.getMaximum().getName() + "\t" + purse.getMaximum().getMeasure());
+        System.out.println("Purse matches: " + purse.matches(yen[0]));
     }
 }

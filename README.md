@@ -1,0 +1,9 @@
+# prog-3
+prog 3 material: includes notes and exercises
+
+# OOD PRINCIPLES
+## COMPANY ORGANIZATION
+This project implements Interface Segregation Principle and Dependency Inversion Principle.
+
+## GRAPHIC EDITOR
+This project implements Single Responsability Principle and Likov's Substitution Principle.

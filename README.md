@@ -7,3 +7,7 @@ This project implements Interface Segregation Principle and Dependency Inversion
 
 ## GRAPHIC EDITOR
 This project implements Single Responsability Principle and Likov's Substitution Principle.
+
+# PATTERNS
+## PRINTER SPOOLER
+This project implements Singleton pattern.

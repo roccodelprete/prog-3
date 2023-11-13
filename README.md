@@ -10,4 +10,7 @@ This project implements Single Responsability Principle and Likov's Substitution
 
 # PATTERNS
 ## PRINTER SPOOLER
-This project implements Singleton pattern.
+This project implements the Singleton pattern.
+
+## FACTORY
+This project implements the Factory Method pattern

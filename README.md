@@ -17,3 +17,6 @@ This project implements the Factory Method pattern
 
 ## ABSTRACT FACTORY
 This project implements the Abstract Factory Method pattern
+
+## COOKIES
+This project implements Prototype pattern.

@@ -34,4 +34,8 @@ This project implements Prototype pattern.
 
 ## REQUEST MANAGER
 
-This project implements Chain of Responsibility Pattern.
+This project implements Chain of Responsibility pattern.
+
+## ORDER MANAGEMENT
+
+This project implements Command pattern.

@@ -39,3 +39,7 @@ This project implements Chain of Responsibility pattern.
 ## ORDER MANAGEMENT
 
 This project implements Command pattern.
+
+## RANDOM WALKER
+
+This project implements Memento pattern.

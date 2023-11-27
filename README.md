@@ -46,4 +46,8 @@ This project implements Memento pattern.
 
 ## CHAT
 
-this project implements Mediator patter.
+This project implements Mediator patter.
+
+## OBSERVER
+
+This project implements Observer patter.

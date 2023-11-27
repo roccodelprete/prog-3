@@ -43,3 +43,7 @@ This project implements Command pattern.
 ## RANDOM WALKER
 
 This project implements Memento pattern.
+
+## CHAT
+
+this project implements Mediator patter.

@@ -57,3 +57,7 @@ This project implements Observer pattern.
 ## SHAPE AND COLOR
 
 This project implements Bridge pattern.
+
+## CAR MANAGEMENT
+
+This project implements Decorator pattern.

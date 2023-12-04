@@ -46,8 +46,14 @@ This project implements Memento pattern.
 
 ## CHAT
 
-This project implements Mediator patter.
+This project implements Mediator pattern.
 
 ## OBSERVER
 
-This project implements Observer patter.
+This project implements Observer pattern.
+
+# STRUCTURAL PATTERNS
+
+## SHAPE AND COLOR
+
+This project implements Bridge pattern.
